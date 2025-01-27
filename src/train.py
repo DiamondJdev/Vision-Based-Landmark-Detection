@@ -18,4 +18,4 @@ results = model.train(
     amp=True
 )
 print(results)
-model.save("yolov8n-obb-trained.pt")
+model.save("yolov8n-obb.pt")
