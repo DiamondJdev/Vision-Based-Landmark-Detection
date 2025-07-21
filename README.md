@@ -1,7 +1,3 @@
-Here’s a recommended README.md for your **Vision-Based Landmark Detection** project:
-
----
-
 # Vision-Based Landmark Detection
 
 Vision-Based Landmark Detection is a Python project focused on detecting helipads and vertiports from visual input. The core goal is to enable reliable, real-time recognition of landing sites using computer vision techniques. This repository is ideal for researchers, drone developers, and anyone interested in autonomous landing systems.
